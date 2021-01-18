@@ -1,14 +1,24 @@
-## Getting Started
+# Tree Tranversal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+###### Struktur Data ######
+## Tree ##
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+KEGIATAN 1
+Dari gambar Tree di atas, Sebutkan dan Jelaskan kepada Asisten:
+a. Predesesor (J).
+b. Successor (K).
+c. Ancestor (R).
+d. Descendant (G).
+e. Parent (Q).
+f. Child (H).
+G. Sibling (F).
+H. Degree (C).
 
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+KEGIATAN 2
+Buatlah sebuah program yang dapat menerima inputan berupa String dari user. Kemudian
+uraiankan inputan user tersebut sehingga dapat menerapkan Tree Traversal (Preorder, Inorder,
+dan Postorder). Setelah program Berhasil dijalankan, demo kan Source Code dan gambarkan
+Binary tree-nya dari inputan yang user inputkan (gambar dapat ditampilkan pada word / paint /
+etc).
